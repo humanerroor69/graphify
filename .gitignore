@@ -40,3 +40,7 @@ paper/
 
 # macOS Finder metadata
 .DS_Store
+# Custom: track my superpowers-graphify skill
+!.agents/skills/
+.agents/skills/*
+!.agents/skills/superpowers-graphify/
